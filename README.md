@@ -63,3 +63,9 @@ Rotated Matrix
 [  49.         -169.78981587  101.41705196  159.        ]
 [  50.          -22.31298062  -35.31474049  -29.        ]]
 ```
+
+### Interactive Plots
+Original and Rotated points are shown in different colors
+![output-01.png](./doc/img/output-01.png)
+You can click and drag to rotate the viewpoint
+![output-02.png](./doc/img/output-01.png)

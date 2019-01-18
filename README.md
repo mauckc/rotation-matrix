@@ -66,6 +66,9 @@ Rotated Matrix
 
 ### Interactive Plots
 Original and Rotated points are shown in different colors
+
 ![output-01.png](./doc/img/output-01.png)
+
 You can click and drag to rotate the viewpoint
+
 ![output-02.png](./doc/img/output-01.png)

@@ -1,5 +1,5 @@
 # Rotation-Matrix
-This repo computes rotations of N points in 3D and interactively visualizes the original and resulting points
+The [main.py](https://github.com/mauckc/rotation-matrix/blob/master/main.py) program loads a binary file containing 3D point cloud data formated as a list of 3-tuples (floats) corresponding to the (x,y,z) coordinates of a collection of points i.e. (point cloud). Then rotations about a user defined axis and magnitude (angle) are computed on each point. The original and resulting point clouds are visualized interactively.
 
 ## Setup
 Requires Python and the installation of following packages

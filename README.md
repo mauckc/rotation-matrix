@@ -71,4 +71,4 @@ Original and Rotated points are shown in different colors
 
 You can click and drag to rotate the viewpoint
 
-![output-02.png](./doc/img/output-01.png)
+![output-02.png](./doc/img/output-02.png)
